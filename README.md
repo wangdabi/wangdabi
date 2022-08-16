@@ -4,6 +4,10 @@
 我准备去学汇编了………………………………
 
 （悄悄溜走）
+
+woc汇编器怎么安不上？！
+
+不干了，赶快去处理那些破破烂烂的js代码！！！
 <!---
 wangdabi/wangdabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
